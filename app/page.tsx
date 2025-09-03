@@ -12,7 +12,7 @@ export default function Home() {
           {/* Profile Image */}
           <div className="relative w-40 h-40 sm:w-48 sm:h-48 mb-6">
             <Image
-              src="/profile.jpg" // Replace with your image
+              src="/images/faysal.jpg" // Replace with your image
               alt="Profile Picture"
               fill
               className="rounded-full object-cover shadow-lg border-4 border-white dark:border-gray-800"
@@ -35,13 +35,13 @@ export default function Home() {
           {/* Buttons */}
           <div className="mt-8 flex gap-4">
             <a
-              href="#projects"
+              href="#"
               className="px-6 py-3 bg-blue-600 text-white rounded-xl shadow-md hover:bg-blue-700 transition"
             >
               View Projects
             </a>
             <a
-              href="/cv.pdf"
+              href="#"
               className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-xl shadow hover:bg-gray-100 dark:hover:bg-gray-800 transition"
             >
               Download CV
