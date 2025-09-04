@@ -27,7 +27,7 @@ export default function Home() {
 
           {/* Subtitle */}
           <p className="mt-4 max-w-xl text-gray-600 dark:text-gray-400 text-base sm:text-lg">
-            A passionate <span className="font-semibold">Full-Stack Developer</span> 
+            A passionate <span className="font-semibold">Full-Stack Developer </span> 
             who loves building modern web apps with{" "}
             <span className="font-semibold">Laravel & Next.js</span>.
           </p>
